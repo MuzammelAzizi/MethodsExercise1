@@ -1,0 +1,14 @@
+C:\Users\muzam\source\repos\MethodsExercise1\MethodsExercise1\obj\Debug\net8.0\MethodsExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muzam\source\repos\MethodsExercise1\MethodsExercise1\obj\Debug\net8.0\MethodsExercise1.AssemblyInfoInputs.cache
+C:\Users\muzam\source\repos\MethodsExercise1\MethodsExercise1\obj\Debug\net8.0\MethodsExercise1.AssemblyInfo.cs
+C:\Users\muzam\source\repos\MethodsExercise1\MethodsExercise1\obj\Debug\net8.0\MethodsExercise1.csproj.CoreCompileInputs.cache
+C:\Users\muzam\source\repos\MethodsExercise1\MethodsExercise1\bin\Debug\net8.0\MethodsExercise1.exe
+C:\Users\muzam\source\repos\MethodsExercise1\MethodsExercise1\bin\Debug\net8.0\MethodsExercise1.deps.json
+C:\Users\muzam\source\repos\MethodsExercise1\MethodsExercise1\bin\Debug\net8.0\MethodsExercise1.runtimeconfig.json
+C:\Users\muzam\source\repos\MethodsExercise1\MethodsExercise1\bin\Debug\net8.0\MethodsExercise1.dll
+C:\Users\muzam\source\repos\MethodsExercise1\MethodsExercise1\bin\Debug\net8.0\MethodsExercise1.pdb
+C:\Users\muzam\source\repos\MethodsExercise1\MethodsExercise1\obj\Debug\net8.0\MethodsExercise1.dll
+C:\Users\muzam\source\repos\MethodsExercise1\MethodsExercise1\obj\Debug\net8.0\refint\MethodsExercise1.dll
+C:\Users\muzam\source\repos\MethodsExercise1\MethodsExercise1\obj\Debug\net8.0\MethodsExercise1.pdb
+C:\Users\muzam\source\repos\MethodsExercise1\MethodsExercise1\obj\Debug\net8.0\MethodsExercise1.genruntimeconfig.cache
+C:\Users\muzam\source\repos\MethodsExercise1\MethodsExercise1\obj\Debug\net8.0\ref\MethodsExercise1.dll
